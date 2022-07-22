@@ -5,7 +5,12 @@ body {
   
     writing-mode: horizontal-tb;
     text-orientation: sideways-right;
+    
+    }
 }
-.abpage{
+.abpage {
     background-color: rgb(96, 103, 232)
 }  
+.h2tema { background-color: blueviolet
+
+}
